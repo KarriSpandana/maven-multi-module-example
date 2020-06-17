@@ -22,7 +22,7 @@
     <url>http://3.133.123.126:8081/nexus/content/repositories/snapshots</url>
   </snapshotRepository>
         <repository>
-            <id>nexus<id>
+            <id>nexus</id>
              <url>http://3.133.123.126:8081/nexus/content/repositories/releases</url>
          </repository>                
 </distributionManagement>            
